@@ -1,9 +1,3 @@
----
-typora-copy-images-to: pics
----
-
----
-
 # Linux 入门
 
 ## 安装 CentOS 虚拟机
