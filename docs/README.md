@@ -1,2 +1,2 @@
-[Linux](http://dreamwhigh.github.io/OS-Notes/#/Linux)
+[Linux](http://dreamwhigh.github.io/OS-Notes/#/Linux%20入门)
 
